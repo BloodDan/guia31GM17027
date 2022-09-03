@@ -1,0 +1,12 @@
+/* ejercicio1b.css   GM17027  */
+fichero {background-color:blue;}
+ficha {background-color:rgb(133, 113, 113); display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;} 
+direccion {color:yellow;font-size:1cm; display:none;}
+telefono {color:rgb(62, 105, 64);font-size:1cm; display:inline; font-size: 2cm;}
+email {color:rgb(42, 12, 92); display:block; font-family: Georgia, 'Times New Roman', Times, serif;}
+urlwebsite {color:rgb(119, 61, 104); display:block; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}  
+dui {color:rgb(0, 217, 255); display:inline; text-align: center;} 
+afp {color:rgb(115, 255, 0); display:inline; font-style: italic;} 
+isss {color:rgb(255, 123, 0); display:inline; text-justify: auto;} 

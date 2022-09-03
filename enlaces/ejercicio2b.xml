@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css" ?>
+<!-- ejercicio2b.xml  GM17027 -->
+<pais nombre="El Salvador">
+            <moneda>Dolar estadounidense</moneda>
+            <idiomas>
+                <oficial>Español</oficial>
+                <autoctono>Nahuat</autoctono>
+                <segundo_idioma>No posee</segundo_idioma>
+            </idiomas>
+            <codigo_telefonico>503</codigo_telefonico>
+            <departamento id="1" nombre="San Salvador">
+               <cabecera>San Salvador</cabecera>
+               <habitantes>1,700,000</habitantes>
+               <altura>545 MSNM</altura>
+               <subdivisiones>19 municipios</subdivisiones>
+            </departamento>
+            <departamento id="2" nombre="La Libertad">
+               <cabecera>Santa Tecla</cabecera>
+               <habitantes>843,500</habitantes>
+               <altura>493 MSNM</altura>
+               <subdivisiones>22 municipios</subdivisiones>
+            </departamento>
+            <departamento id="3" nombre="Santa Ana">
+               <cabecera>Santa Ana</cabecera>
+               <habitantes>631,100</habitantes>
+               <altura>763 MSNM</altura>
+               <subdivisiones>13 municipios</subdivisiones>
+            </departamento>
+</pais>
